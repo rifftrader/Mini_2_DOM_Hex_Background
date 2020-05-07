@@ -1,0 +1,19 @@
+.container-fluid{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3{
+  text-align: center;
+  color: white;
+
+}
+
+.box{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
